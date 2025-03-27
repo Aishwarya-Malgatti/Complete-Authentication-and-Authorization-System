@@ -37,7 +37,8 @@ mvn clean package
 ![Dashboard](https://github.com/Aishwarya-Malgatti/Complete-Authentication-and-Authorization-System/blob/5d1f247c2ca5c4b16d91c8375ca674efab516029/WhatsApp%20Image%202025-03-27%20at%2016.05.03_bc34a171.jpg)
 
 ## Technologies Used
-- **Spring Boot**
+- **JSP**
+- **Servlets**
 - **Spring Security**
 - **JWT (JSON Web Tokens)**
 - **Maven**
